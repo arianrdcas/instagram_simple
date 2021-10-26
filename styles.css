@@ -1,0 +1,72 @@
+.body{
+    background: black;
+}
+
+.principal{
+    width: 450px;
+    height:600px; 
+    margin: auto;
+    background: white;
+}
+
+
+.principal .cont1{
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+    margin-left:10px;
+}
+
+#htmlimg{
+    font-size: 25px;
+    padding: 0px;
+}
+
+.texto{
+    display: block;
+    font-size: 10px;
+    
+}
+#elipsi{
+    margin-left:365px;
+    
+}
+
+.principal .cont2 {
+    width: 100%;
+    
+}
+.principal .cont2 img{
+    width: 100%;
+    height: 350px;
+    
+}
+.principal .cont3{
+    padding: 0px;
+    border-top: 10px;
+    margin-left: 10px;
+    margin-right:10px;
+    text-align: justify;
+}
+.iconos{
+    display: flex;
+    font-size: 15px;
+    border-top: 10px;
+    padding:0
+
+}
+
+#bookmark{
+    margin-left: 375px;
+}
+
+
+.parrafo{
+    width: 400px;
+    height: 400px;
+    display: block;
+    justify-content: end;
+    padding-bottom:25px
+    
+}
+ 
